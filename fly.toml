@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for schoolapi on 2026-11-18T18:27:57Z
+# fly.toml app configuration file generated for schoolapi on 2026-11-18T18:55:13Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
 app = 'schoolapi'
-primary_region = 'fra'
+primary_region = 'ams'
 
 [build]
 [env]
